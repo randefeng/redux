@@ -1,0 +1,12 @@
+1,Styled-Components 写样式  （我不太喜欢这样的麻烦）
+
+2,Reset.css    HTML中绝大部分标签元素在网页显示中都有一个默认属性值,通常为了避免重复定义元素样式
+
+7-2、
+
+新建 common  公用写组建
+
+header 
+
+statics
+
